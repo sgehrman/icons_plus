@@ -20,12 +20,14 @@ dev_dependencies:
   flutter_lints: ^3.0.1
 
 screenshots:
-  - description: 'Icons Plus Banner'
+  - description: "Icons Plus Banner"
     path: icons-plus.svg
 
 flutter:
   # Images
   assets:
+    # Fonts
+    - assets/fonts/
     # Characters SVG images
     - assets/images/characters/abc-warriors-characters/
     - assets/images/characters/adventure-time-cartoon/
